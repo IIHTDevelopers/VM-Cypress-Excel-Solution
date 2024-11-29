@@ -1,0 +1,138 @@
+<test-cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-1VerifyLoginWithValidCredentials</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-2VerifyPageNavigationAndLoadTimeForBillingCounter</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-3VerifyPatientSearchWithValidDataForAppointment</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-4ActivateCounterInDispensary</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-5PurchaseRequestListLoad</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-6LabDashboardDataValidation</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-7HandleAlertOnBillingCounter</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-8Data-drivenTestingForPatientSearch</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-9ErrorHandlingAndLoggingInPurchaseRequestList</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-10Keyword-drivenFrameworkForAppointmentSearch</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-11ModularScriptForPatientSearch</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-12VerifyAssertionForCounterActivation</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-14VerifyLocatorStrategyForAppointmentSearch</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-15ElementInspectionAndHandlingAlertsInLabDashboard</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-16NavigationExceptionHandlingOnDispensaryPage</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-17WebElementHandlingForDropdownsInPurchaseRequest</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-18FormAuthenticationAndErrorMessages</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+</test-cases>
